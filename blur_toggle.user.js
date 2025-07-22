@@ -2,8 +2,8 @@
 // @name         网页一键模糊防窥屏
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    https://your-domain.com/blur_toggle.user.js
-// @downloadURL  https://your-domain.com/blur_toggle.user.js
+// @updateURL    https://raw.githubusercontent.com/lh-f/youhou_jb/main/blur_toggle.user.js
+// @downloadURL  https://raw.githubusercontent.com/lh-f/youhou_jb/main/blur_toggle.user.js
 // @description  按Ctrl+B快捷键切换网页模糊，防止他人窥屏
 // @author       AI助手
 // @match        *://*/*
